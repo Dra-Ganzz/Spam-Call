@@ -1,20 +1,16 @@
-requests
-bs4
-colorama
-beautifulsoup4
-rich
-fake_useragent
-psutil
-datetime
-pycryptodome
-inquirer
-pypasser
-sh
-googletrans==4.0.0-rc1
-cython
-pytesseract
-requests-toolbelt
-pillow
-certifi
-dns-client
-urllib3
+setup:
+	termux-setup-storage
+	apt-get updat
+	apt-get upgrade
+	apt-get install ruby python ossp-uuid figlet pv toilet nodejs openssl-tool
+	apt-get install curl xh ncurses-utils clang bc nodejs-lts xz-utils
+	pip install -r requirements.txt
+	pip install httpie
+	pip install phonenumbers
+	@gem install lolcat
+	@npm -g i chalk chalk-animation
+	@npm -g i bash-obfuscate
+	@echo "[+] paket berhasil di setup"
+run:
+	@python run.py
+

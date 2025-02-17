@@ -1,5 +1,5 @@
 # Spam-Call
-Script spam call website easy cash 2025
+Script spam call 2025
 
 Untuk Key Bisa chat telegram t.me/vindraganzz 100% Free/Gratis
 ```bash
@@ -14,4 +14,5 @@ pip install -r requirements.txt
 pip install psutil
 git pull
 make setup
-make run```
+make run
+```

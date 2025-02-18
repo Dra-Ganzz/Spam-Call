@@ -1,7 +1,6 @@
 # Spam-Call
 Script spam call 2025
 
-Untuk Key Bisa chat telegram t.me/vindraganzz 100% Free/Gratis
 ```bash
 termux-setup-storage
 pkg update && pkg upgrade
